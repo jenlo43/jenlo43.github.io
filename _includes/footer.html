@@ -11,13 +11,13 @@
             {% endfor %}
           </p>
         </div>
-        <div class="footer-col col-md-4">
+        <div class="footer-col col-md-4 offset-md-4">
           <h3>{{ site.footer.social }}</h3>
           <ul class="list-inline">
             {% for network in site.social %}
             <li>
               <a href="{{ network.url }}" class="btn-social btn-outline">
-                {% if network.title == "envelope" %}
+                {% if network.title == "file" %}
                 <i class="fa-regular fa-fw fa-{{ network.title }}"></i>
                 {% else %}
                 <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
