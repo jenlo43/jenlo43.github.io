@@ -41,14 +41,8 @@ footer:
 social:
   - title: user
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: linkedin
+    url: http://linkedin.com/in/jennifer--lopez
 
 # Postal address (add as many lines as necessary)
 address:
