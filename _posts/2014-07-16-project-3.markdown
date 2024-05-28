@@ -5,7 +5,7 @@ date: 2014-07-16
 img: circus.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Bank of America
+category: Software Engineer
+description: Implemented a queue monitoring web application for the cloud team's internal request queue using Java and MongoDB. Automated email alerts to be sent when queue reaches a high load or the load has become stagnant. Wrote unit and integration tests for the feature and deployed feature to the production environment.
 ---
