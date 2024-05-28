@@ -8,3 +8,4 @@ project-date: April 2014
 client: Spira Engineering Camp 
 category: Camp Instructor and Coordinator
 description: Developed and taught an engineering curriculum aimed to encourage high school girls to pursue STEM. Communicated with professors and engineering companies to plan presentations and field trips.
+---
