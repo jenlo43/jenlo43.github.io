@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 12
-date: 2014-07-15
+date: 2022-12-01
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Medical Image segmentationusing UNet 
+project-date: December 2022
+client: Medical Image segmentation using UNet 
 category: CNN
-description: Polyp and Pneumothorax segmentation
+name: Medical Image Segmentation Using UNet
+description: Implemented the UNet CNN architecture at 3 different depths. The models were trained on Polyp and Pneumothorax medical images separately. The performace of the medical image segmentations were evaluated based on the Intersection over Union (IoU).
+technologies: Python, Keras, PyTorch
 ---
