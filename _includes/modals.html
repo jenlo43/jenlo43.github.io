@@ -36,6 +36,13 @@
               </li>
               {% endif %}
             </ul>
+            <ul>
+              {% if post.technologies %}
+              <li>Technologies:
+                <strong>{{ post.technologies }}</strong>
+              </li>
+              {% endif %}
+            </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
