@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2024-01-04
 img: we4_icon.png
 alt: image-alt
-project-date: April 2014
+project-date: May 2018
 client: Research Experiences for Undergradutes (REU) at ASU
 category: Researcher
-description: Trained and developed CNN models using Caffe for an image recognition task. Presented research to fellow researchers and professors.
+name: REU Researcher at ASU
+description: Worked with the Sensor, Signal and Information Processing (SenSIP) Devices and Algorithms REU site. Applied different machine learning techniques and developed a Convolutional Neural Network Model (CNN) using Caffe and AlexNet to achieve an image recognition task. Presented research to fellow researchers and professors.
+technologies: Caffe, Matlab, Python
 ---
