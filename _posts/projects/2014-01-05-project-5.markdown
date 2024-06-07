@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 11
-date: 2014-07-14
+date: 2022-10-01
 img: safe.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2024
 client: Control Using Different Inverse Kinematics Methods for Trajectories
 category: Robotics
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+name: Control of Robotic Arm Using Inverse Kinematics
+description: Designed a 4-DOF (Degrees of Freedom) robotic arm in Matlab. Implemented the inverse kinematics algorithm to estimate the path of 3 different trajectories. Analyzed the effect of the trajectories and their complexity based on the performace of the path taken.
+technologies: Matlab with Robotics Toolbox
 ---
