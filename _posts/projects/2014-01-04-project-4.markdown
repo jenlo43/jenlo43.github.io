@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 10
-date: 2014-07-15
+date: 2022-11-01
 img: game.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2022
 client: Pacman Using Reinforcement Learning
 category: Reinforcement Learning
-description: Implemented informed state-space search to guide Pacman through a maze efficiently. Search algorithm includes Breadth First Search, Depth First Search, Uniform Cost Search, and A* Search. Implemented reinforcement learning Pacman. The project was implemented using Python.
+name: Pacman Using Reinforcement Learning
+description: Implemented Approximate Q-Learning, Episodic Semi-gradient Sarsa, and True Online Sarsa to train Pacman in different environments. Analyzed Pacman's performance based on rewards and training time.
 ---
