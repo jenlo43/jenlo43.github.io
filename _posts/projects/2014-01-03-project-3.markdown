@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 9
-date: 2014-07-16
+date: 2022-03-01
 img: circus.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2023
 client: Gesture Recognition
 category: CNNs
-description: Implemented gesture recognition using AlexNet, ResNet50, and MobileNet as the CNN architecture models and analyzed their performance based on training and testing accuracy and training time.
+name: Gesture Recognition
+description: Implemented gesture recognition using AlexNet, ResNet50, and MobileNet as the CNN architecture models. Analyzed their performance based on training and testing accuracy and training time.
 ---
