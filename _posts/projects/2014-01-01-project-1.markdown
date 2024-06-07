@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 7
-date: 2014-07-18
+date: 2020-02-01
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: February 2020
 client: Chameleon App
 category: Chameleon App
-description: Developed a child-friendly health monitoring app, Chameleon, using Swift and Firebase. The app allowed users to create an user profile, receive circuit readings, and store health data.
+name: Chameleon App
+description: Developed a child-friendly health monitoring iOS app, Chameleon, using Swift and Firebase. The app allowed users to create a user profile, receive heart rate readings from a PCB circuit, and store health data.
+technologies: Swift, Firebase
 ---
