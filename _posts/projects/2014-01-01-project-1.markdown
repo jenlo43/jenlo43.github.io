@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 7
-date: 2020-02-01
-img: cabin.png
+date: 2021-02-01
+img: project4_icon.png
 alt: image-alt
 project-date: February 2020
 client: Chameleon App
