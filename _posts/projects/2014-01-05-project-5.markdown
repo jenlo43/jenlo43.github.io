@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 11
-date: 2022-10-01
-img: safe.png
+date: 2020-10-01
+img: project5_icon.png
 alt: image-alt
 project-date: November 2024
 client: Control Using Different Inverse Kinematics Methods for Trajectories
