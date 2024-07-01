@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 12
-date: 2022-12-01
-img: submarine.png
+date: 2024-12-01
+img: project1_icon.png
 alt: image-alt
 project-date: December 2022
 client: Medical Image segmentation using UNet 
