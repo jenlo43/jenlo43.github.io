@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 8
-date: 2020-05-01
-img: cake.png
+date: 2019-05-01
+img: project6_icon.png
 alt: image-alt
 project-date: April 2023
 client: UX App
