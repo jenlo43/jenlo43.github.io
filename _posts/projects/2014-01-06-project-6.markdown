@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 12
-date: 2024-12-01
+date: 2024-01-01
 img: project1_icon.png
 alt: image-alt
 project-date: December 2022
