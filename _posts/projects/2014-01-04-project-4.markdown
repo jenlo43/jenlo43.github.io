@@ -8,5 +8,5 @@ project-date: November 2022
 client: Pacman Using Reinforcement Learning
 category: Reinforcement Learning
 name: Pacman Using Reinforcement Learning
-description: Implemented Approximate Q-Learning, Episodic Semi-gradient Sarsa, and True Online Sarsa to train Pacman in different environments. Analyzed Pacman's performance based on rewards and training time.
+description: Implemented Approximate Q-Learning, Episodic Semi-gradient Sarsa, and True Online Sarsa to train Pacman in different environments. Analyzed Pacman's performance based on rewards and training time. Approximate Q-Learning and Episodic Semi-gradient Sarsa tend to achieve higher rewards while True Online Sarsa still has a good winning rate but a slower training time.
 ---
