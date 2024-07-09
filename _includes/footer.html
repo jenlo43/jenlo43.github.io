@@ -22,6 +22,10 @@
               <a href="{{ network.url }}" target="_blank" class="btn-social btn-outline">
                 <i class="fa-regular fa-fw fa-{{ network.title }}" title="View My Resume"></i>
               </a>
+              {% else if network.title == "email" %}
+              <a href="mailto:{{ network.url }}" target="_blank" class="btn-social btn-outline">
+                <i class="fa-regular fa-fw fa-envelope" title="Email Me"></i>
+              </a>
               {% else %}
               <a href="{{ network.url }}" target="_blank" class="btn-social btn-outline">
                 <i class="fa-brands fa-fw fa-{{ network.title }}" title="Let's Connect"></i>
