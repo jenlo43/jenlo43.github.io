@@ -8,6 +8,6 @@ project-date: December 2022
 client: Medical Image segmentation using UNet 
 category: CNN
 name: Medical Image Segmentation Using UNet
-description: Implemented the UNet CNN architecture at 3 different depths. The models were trained on Polyp and Pneumothorax medical images separately. The performace of the medical image segmentations were evaluated based on the Intersection over Union (IoU).
+description: Implemented the UNet CNN architecture at 3 different depths, 3,4,and 5. The models were trained on Polyp and Pneumothorax medical images separately. The performace of the medical image segmentations were evaluated based on the Intersection over Union (IoU). UNet with a depth of 4 had the best performance both in training and testing IoU.
 technologies: Python, Keras, PyTorch
 ---
