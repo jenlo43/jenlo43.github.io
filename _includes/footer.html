@@ -18,13 +18,15 @@
           <ul class="list-inline">
             {% for network in site.social %}
             <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline">
-                {% if network.title == "file" %}
+              {% if network.title == "file" %}
+              <a href="{{ network.url }}" target="_blank" class="btn-social btn-outline">
                 <i class="fa-regular fa-fw fa-{{ network.title }}"></i>
-                {% else %}
-                <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
-                {% endif %}
               </a>
+              {% else %}
+              <a href="{{ network.url }}" target="_blank" class="btn-social btn-outline">
+                <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
+              </a>
+              {% endif %}
             </li>
             {% endfor %}
           </ul>
