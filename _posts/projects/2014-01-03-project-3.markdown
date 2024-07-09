@@ -8,5 +8,5 @@ project-date: April 2023
 client: Gesture Recognition
 category: CNNs
 name: Gesture Recognition
-description: Implemented gesture recognition using AlexNet, ResNet50, and MobileNet as the CNN architecture models. Analyzed their performance based on training and testing accuracy and training time.
+description: Implemented and trained Gesture Recognition models using AlexNet, ResNet50, and MobileNet as the CNN architecture models and a hand geture dataset. Analyzed their performance based on testing accuracy, training time, and model complexity. MobileNet allowed for the best overall performance with its high accuracy and fastest training time.
 ---
