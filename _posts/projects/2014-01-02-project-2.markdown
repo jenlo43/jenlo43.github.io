@@ -8,6 +8,6 @@ project-date: April 2023
 client: UX App
 category: Figma
 name: UX E-Commerce App Design 
-description: Designed an e-commerce bakery app on Figma based on the requirements and functionality the client desired and the customer personas developed.
+description: Designed an e-commerce bakery app on Figma based on the requirements and functionality the client desired. Researched and crafted customer personas to best target the goals and optimize website navigation.
 technologies: Figma
 ---
