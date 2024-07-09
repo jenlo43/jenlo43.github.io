@@ -43,6 +43,8 @@ social:
     url: uploads/resume.pdf
   - title: linkedin
     url: http://linkedin.com/in/jennifer--lopez
+  - title: email
+    url: j.lopez.4398@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
